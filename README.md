@@ -1,2 +1,2 @@
-# EvansOsumba
+# Evans Osumba
 Profile
