@@ -2,7 +2,7 @@
 # Hi there, I'm Evans Osumba 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/galaxie-dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/Osumba_ke)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/@Osumba_ke)
 
 I'm a [Your Profession/Role] passionate about [your interests or specialties]. I love building innovative solutions and contributing to open-source projects.
 
